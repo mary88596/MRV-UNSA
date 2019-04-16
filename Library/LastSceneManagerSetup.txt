@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/diorama.unity
+  isLoaded: 1
+  isActive: 1
